@@ -17,3 +17,9 @@ This easy-to-use random password generator is compatible with all browser and sc
 -Your random password will generate, and is ready to be copied and used!
 
 ## Credits
+
+I wanted to give a big thanks to the following Youtube creators for helping me navigate this project. Please check out their channels and support their very informative content:
+
+-Telusko - https://www.youtube.com/watch?v=Wsy7nhFnfbM
+
+-Florin Pop - https://www.youtube.com/watch?v=PHgeshcXtDc
