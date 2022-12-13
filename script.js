@@ -29,13 +29,14 @@ function promptMe() {
   }
 // Prompt list
   // first prompt
-  var passwordLength = prompt("Choose Password Length; 8 - 128 Characters");
+  var passwordLength = prompt("Choose Password Length: 8 - 128 Characters");
 
   // valid input
   if (passwordLength >= 8 && passwordLength <=128) {
   // invalid input
   } else {
     alert ("invalid length of " + passwordLength + ". Please select 8 - 128 characters.");
+    return promptMe();
   }
 
   // second prompt
